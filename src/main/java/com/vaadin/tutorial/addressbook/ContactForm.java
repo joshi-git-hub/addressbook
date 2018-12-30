@@ -1,4 +1,4 @@
-package com.vaadin.tutorial.addressbook;
+ackage com.vaadin.tutorial.addressbook;
 
 import com.vaadin.event.ShortcutAction;
 import com.vaadin.tutorial.addressbook.backend.Contact;
